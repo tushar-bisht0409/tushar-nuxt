@@ -71,7 +71,7 @@
           class="flex items-center border-l border-slate-200 ml-6 dark:border-slate-800"
         >
           <a
-            href="https://github.com/agtraveso/landing-nuxt-template"
+            href="https://github.com/tushar-bisht0409"
             class="ml-6 block text-slate-400 hover:text-slate-500 dark:hover:text-slate-300"
             ><span class="sr-only">Landing NuxtJS Template on GitHub</span
             ><svg
