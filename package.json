@@ -13,6 +13,9 @@
     "lintfix": "prettier --write --list-different . && yarn lint:js --fix",
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
+  "engines": {
+    "node": ">=14.0.0 <17.0.0"
+  },
   "dependencies": {
     "@nuxtjs/pwa": "^3.3.5",
     "@tailwindcss/forms": "^0.4.0",
