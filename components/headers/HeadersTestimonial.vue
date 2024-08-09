@@ -68,10 +68,7 @@
                 </div>
                 <div>
                   <div class="text-lg mb-4">
-                    "I have fought hundreds of battles against SEO, design
-                    fustrations and deployment issues. Nothing is more valuable
-                    than having a tool to help you deal with adverse elements.
-                    This is the best I found since I born in 1584."
+                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
                   </div>
                   <div
                     class="flex flex-col items-start"
@@ -81,7 +78,7 @@
                       class="transition-colors duration-500 text-indigo-500 dark:text-indigo-400"
                       style="transform-origin: 50% 50% 0px"
                     >
-                      Miyamoto Musashi
+                      No one here
                     </p>
                     <p
                       class="transition-colors duration-500 text-slate-700 dark:text-slate-500"
