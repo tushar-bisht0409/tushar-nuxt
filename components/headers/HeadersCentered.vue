@@ -4,10 +4,10 @@
       <h1
         class="text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl tracking-tight text-center dark:text-white"
       >
-        Rapidly build landing pages for your business with NuxtJS.
+        Hey there! Tushar this side.
       </h1>
       <p class="mt-6 text-lg text-gray-400 text-center max-w-3xl mx-auto">
-        An extensible Github template with the important stuff preconfigured:
+        Nothing to worry about:
         <code class="font-mono font-medium text-indigo-400">components</code>,
         <code class="font-mono font-medium text-indigo-400">auto-deploy</code>,
         <code class="font-mono font-medium text-indigo-400">SEO</code>
