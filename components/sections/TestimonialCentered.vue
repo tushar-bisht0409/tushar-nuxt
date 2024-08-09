@@ -8,9 +8,7 @@
     <figure>
       <blockquote>
         <p class="mt-6 max-w-3xl mx-auto text-lg">
-          As Miyamoto said, it could be dirty to get a landing done. Most of the
-          time, you start from scratch using Wordpress and/or some shitty
-          landing generators... Copying and pasting
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
           <span class="text-indigo-500 font-semibold dark:text-indigo-400"
             >html</span
           >,
